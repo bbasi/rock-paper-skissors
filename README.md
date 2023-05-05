@@ -1,5 +1,7 @@
 # rock-paper-skissors
 > *A Rock, Paper, Scissors game with a **ski**-ing theme*
+>
+> Built during 05/03/2023 09:17 PST -> 05/05/2023 13:45 PST
 
 - [rock-paper-skissors](#rock-paper-skissors)
   * [Play ( webGL )](#play---webgl--)
