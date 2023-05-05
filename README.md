@@ -2,7 +2,7 @@
 *A Rock, Paper, Scissors game with a **ski**-ing theme*
 
 ## Play ( webGL )
-- <font size="5">[Play - Rock, Paper, Skissors](https://www.balrajbasi.com/games/rock_paper_skissors/)</font>
+- [Play - Rock, Paper, Skissors](https://www.balrajbasi.com/games/rock_paper_skissors/)
   - *Best played in Chrome / Desktop*
 
 <img src="https://www.balrajbasi.com/gm/rps/github/rpsDemo1.gif" width="600px"/>
