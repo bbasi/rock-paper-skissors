@@ -1,6 +1,16 @@
 # rock-paper-skissors
 *A Rock, Paper, Scissors game with a **ski**-ing theme*
 
+- [rock-paper-skissors](#rock-paper-skissors)
+  * [Play ( webGL )](#play---webgl--)
+  * [Client ( Unity 2022.2.17 )](#client---unity-2022217--)
+  * [Assets Used](#assets-used)
+  * [Features](#features)
+    + [Addressables](#addressables)
+    + [Scriptable Objects](#scriptable-objects)
+    + [Unity Test Framework - Unit Tests](#unity-test-framework---unit-tests)
+    + [Leaderboard](#leaderboard)
+
 ## Play ( webGL )
 - [Play - Rock, Paper, Skissors](https://www.balrajbasi.com/games/rock_paper_skissors/)
   - *Best played in Chrome / Desktop*
