@@ -1,14 +1,14 @@
 # rock-paper-skissors
-*A Rock, Paper, Scissors game with a **ski**-ing theme*
+> *A Rock, Paper, Scissors game with a **ski**-ing theme*
 
 - [rock-paper-skissors](#rock-paper-skissors)
   * [Play ( webGL )](#play---webgl--)
   * [Client ( Unity 2022.2.17 )](#client---unity-2022217--)
   * [Assets Used](#assets-used)
   * [Features](#features)
-    + [Addressables](#addressables)
-    + [Scriptable Objects](#scriptable-objects)
     + [Unity Test Framework - Unit Tests](#unity-test-framework---unit-tests)
+    + [Scriptable Objects](#scriptable-objects)
+    + [Addressables](#addressables)
     + [Leaderboard](#leaderboard)
 
 ## Play ( webGL )
@@ -35,17 +35,16 @@
 - [Script - Camera Aspect Ratio Adjuster](http://gamedesigntheory.blogspot.com/2010/09/controlling-aspect-ratio-in-unity.html)
 - [SFX - switch3 ( from Kenny UI Pack )](https://www.kenney.nl/assets/ui-pack)
 
-
 ## Features
 
-### Addressables
-<img src="https://www.balrajbasi.com/gm/rps/github/addressables.png"/>
+### Unity Test Framework - Unit Tests
+<img src="https://www.balrajbasi.com/gm/rps/github/test_framework.png"/>
 
 ### Scriptable Objects
 <img src="https://www.balrajbasi.com/gm/rps/github/scriptable_objects.png" width="600px"/>
 
-### Unity Test Framework - Unit Tests
-<img src="https://www.balrajbasi.com/gm/rps/github/test_framework.png"/>
+### Addressables
+<img src="https://www.balrajbasi.com/gm/rps/github/addressables.png"/>
 
 ### Leaderboard
 <img src="https://www.balrajbasi.com/gm/rps/github/leaderboard.png" width="650px"/>
