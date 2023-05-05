@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameVariants
+  m_EditorClassIdentifier: 
+  m_GroupName: GameVariants
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b793933744d6744b84941c6bdd6f097
+  m_SerializeEntries:
+  - m_GUID: 65155ced576694e449e09eea81989334
+    m_Address: Assets/RPS/ScriptableObject/GameVariant_RockPaper.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameVariant
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73efe920fa7b1914a8883037d3b382b3
+    m_Address: Assets/RPS/ScriptableObject/GameVariant_Standard.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameVariant
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 41b657bd68e7e2b4eb3c6e3ed15602f8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6bc23e2164ef79d44b1a6901a3d2110c, type: 2}
+    - {fileID: 11400000, guid: d71b866e072b5bb4c83e42f52dd3c1a3, type: 2}

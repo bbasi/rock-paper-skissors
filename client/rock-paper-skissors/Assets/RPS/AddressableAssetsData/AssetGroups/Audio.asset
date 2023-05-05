@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 16dbc13f934a24c4eb68297473635824
+  m_SerializeEntries:
+  - m_GUID: 5a37f9eae1b81e043a2134bec01a70d5
+    m_Address: Assets/RPS/Audio/winter-wind-short-cut.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameMusic
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 41b657bd68e7e2b4eb3c6e3ed15602f8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 49965151cd12e17498d7d1e891e2e9aa, type: 2}
+    - {fileID: 11400000, guid: 51e1d59c52686e24f8a9b0ff77dac50c, type: 2}
