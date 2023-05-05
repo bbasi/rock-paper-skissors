@@ -23,7 +23,7 @@
 ## Client ( Unity 2022.2.17 )
 - Intended resolution = 16:10
 - Intended platform = WebGL
-- **[IMPORTANT]** - In order to run the game you must either
+- <span style="color:#FFDC00">**[IMPORTANT]**</span> - In order to run the game you must either :
   1. Start from scene **Boot**
   2. Use SceneAutoLoader ( File -> Scene Auto Load -> Select Master Scene -> **Boot** ) to automatically do this when pressing play, regardless of the open active scene.
 
