@@ -8,7 +8,7 @@ $username = "";
 $password = "";
 $dbname = "";
 
-include 'bbnetconfig.php';
+include '../cfg/bbnetconfig.php';
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
